@@ -5,10 +5,10 @@ function setup() {
   title = createElement('h2', "<a href='/PoeticCodeForNature'> GO HOME!  </a>   Second Planet ");
   ## 우주쓰레기 속에 있는 태양 지구 달
   description = "\
-  http://p5js.org/examples/input-mouse-2d.html
-  을 활용해 지구를 중심으로 태양과 달의 위치가 바뀌는 모습을 만들어 보았다.
-  우주쓰레기 속에 있는 태양 지구 달의 모양
-  마우스의 움직임에 따라 우주쓰레기의 위치가 바뀌고, 태양 지구 달이 돌아간다.
+  http://p5js.org/examples/input-mouse-2d.html<br>
+  을 활용해 지구를 중심으로 태양과 달의 위치가 바뀌는 모습을 만들어 보았다.<br>
+  우주쓰레기 속에 있는 태양 지구 달의 모양<br>
+  마우스의 움직임에 따라 우주쓰레기의 위치가 바뀌고, 태양 지구 달이 돌아간다.<br>
 
 \
   ";
