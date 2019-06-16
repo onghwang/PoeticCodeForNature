@@ -2,7 +2,16 @@ var sun = new Sun(50);
 var planet_colors = [[235,243,246],[227,220,203],[216,202,157],[165,145,134],[201,144,57]]
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  title = createElement('h2', "<a href='/PoeticCodeForNature'> GO HOME!  </a>   SolarSystem ");
+  description = "\
+  궤도를 도는 태양계를 표현하고자 하였다.  \
+  ";
+  text = createDiv(description);
+  text.position(20, 550);
+  text.style("font-family", "monospace");
+  text.style("font-size", "12pt");
+
+  createCanvas(500, 500);
 }
 
 
