@@ -3,12 +3,12 @@ let ball2;
 let value=0;
 
 function setup() {
-  title = createElement('h2', "<a href='/PoeticCodeForNature'> HOME!  </a> RandomWalk ");
+  title = createElement('h2', "<a href='/PoeticCodeForNature'> GO HOME!  </a>   RandomWalk ");
   description = "\
  마우스를 중심으로 random walk가 진행된다. \
   ";
   text = createDiv(description);
-  text.position(20, 400);
+  text.position(20, 550);
   text.style("font-family", "monospace");
   text.style("font-size", "12pt");
 
