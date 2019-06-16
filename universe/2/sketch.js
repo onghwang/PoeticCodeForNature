@@ -2,8 +2,6 @@ let totalPts=100;
 let steps = totalPts + 1;
 
 function setup() {
-
-
   title = createElement('h2', "<a href='/PoeticCodeForNature'> GO HOME!  </a>   Second Planet ");
   description = "\
 
@@ -15,9 +13,7 @@ function setup() {
   text.position(20, 550);
   text.style("font-family", "monospace");
   text.style("font-size", "12pt");
-
   
-
   createCanvas(400, 400);
   stroke(255);
   frameRate(1);
