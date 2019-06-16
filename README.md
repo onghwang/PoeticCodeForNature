@@ -10,8 +10,8 @@
  [Second planet](./universe/2)<br/>
  [Third planet](./universe/3)<br/>
  *ParticleSystem
- [popcorn](./Particlesystem/1)
- [2]
+ [popcorn](./Particlesystem/1) <br/>
+ [Firework](./Particlesystem/2)
 
 
  ![예시 이미지](./example_img.png)
