@@ -5,8 +5,8 @@
 
 ## 작품 上
  * [RandomWalk](./RandomWalk/)
- * Universe<br/>
- [First planet](/universe/1)<br/>
+ * Universe <br/>
+ [First planet](./universe/1)<br/>
  [Second planet](./universe/2)<br/>
  [Third planet](./universe/3)<br/>
 
