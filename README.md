@@ -15,6 +15,6 @@
 
 ## 작품 下
  ![1번작품](./image/2.JPG)
- *[SolarSystem](./solarsystem/sketch.js/sketch.js)
+ *[SolarSystem](./solarsystem/)
 ## [Box2d 예제](./Boxes/)
  *기본예제
