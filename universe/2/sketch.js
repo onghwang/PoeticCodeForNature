@@ -2,18 +2,7 @@ let totalPts=100;
 let steps = totalPts + 1;
 
 function setup() {
-  title = createElement('h2', "<a href='/PoeticCodeForNature'> GO HOME!  </a>   Second Planet ");
-  description = "\
 
-  을 활용해 지구를 중심으로 태양과 달의 위치가 바뀌는 모습을 만들어 보았다.<br/>
-  우주쓰레기 속에 있는 태양 지구 달의 모양<br/>
-  마우스의 움직임에 따라 우주쓰레기의 위치가 바뀌고, 태양 지구 달이 돌아간다.<br/> \
-  ";
-  text = createDiv(description);
-  text.position(20, 550);
-  text.style("font-family", "monospace");
-  text.style("font-size", "12pt");
-  
   createCanvas(400, 400);
   stroke(255);
   frameRate(1);
