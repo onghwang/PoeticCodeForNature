@@ -5,11 +5,11 @@
 
 ## 작품 上
  * [RandomWalk](./RandomWalk/)
- * Universe
- [First planet](./universe/1)
- [Second planet](./universe/2)
- [Third planet](./universe/3)
- *
+ * Universe<br>
+ [First planet](/universe/1)<br>
+ [Second planet](./universe/2)<br>
+ [Third planet](./universe/3)<br>
+
 
  ![예시 이미지](./example_img.png)
 
