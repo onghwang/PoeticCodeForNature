@@ -7,7 +7,7 @@ function setup() {
   궤도를 도는 태양계를 표현하고자 하였다.  \
   ";
   text = createDiv(description);
-  text.position(20, 550);
+  text.position(20, 600);
   text.style("font-family", "monospace");
   text.style("font-size", "12pt");
 
