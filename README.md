@@ -9,14 +9,14 @@
  [First planet](./universe/1)<br/>
  [Second planet](./universe/2)<br/>
  [Third planet](./universe/3)<br/>
- *ParticleSystem<br/>
+ * ParticleSystem<br/>
  [popcorn](./Particlesystem/1) <br/>
  [Firework](./Particlesystem/2)
 
 ## 작품 下
  ![1번작품](./image/2.JPG)
- *[SolarSystem](./solarsystem/ast)
+ *[SolarSystem](./solarsystem/)
  ![2번작품](./image/3.JPG)
- *[지구를 돌리는 우주비행사]()
+ *[지구를 돌리는 우주비행사](./ast/)
 ## [Box2d 예제](./Boxes/)
  *기본예제
