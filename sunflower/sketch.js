@@ -13,7 +13,9 @@ function setup() {
 
   title = createElement('h2', "<a href='/PoeticCodeForNature'> GO HOME!  </a>   SolarSystem ");
   description = "\
-  궤도를 도는 태양계를 표현하고자 하였다.  \
+  wind가 해바라기와 햇님을 방해하는 장애물로 생각하였고, 
+  햇님을 조금 더 가까이 보기 위해 점프하는 해바라기에게 마우스를 클릭해 wind를 주면
+  햇님과 해바라기 사이가 멀어지는 형태로 작품을 만들게 되었다. \
   ";
   text = createDiv(description);
   text.position(20, 600);
