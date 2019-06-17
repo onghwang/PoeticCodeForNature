@@ -16,7 +16,7 @@ function setup() {
 
 
 function draw() {
-  background(0);
+background(0,34,102);
   translate(width / 2, height / 2);
 
   sun.spawn_planets(8);
