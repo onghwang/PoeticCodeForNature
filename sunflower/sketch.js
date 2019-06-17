@@ -10,17 +10,15 @@ function preload()
 }
 
 function setup() {
-  title = createElement('h2', "<a href='/PoeticCodeForNature'> GO HOME!  </a>   sunflower ");
+
+  title = createElement('h2', "<a href='/PoeticCodeForNature'> GO HOME!  </a>   SolarSystem ");
   description = "\
-  해바라기가 자신이 짝사랑하는 햇님을 조금 더 가까이 보기 위해 점프하고 있다. <br/>
-  바람이 불어 햇님과 해바라기 사이를 갈라놓는다.<br/>
-  해바라기는 과연 햇님과 만날 수 있을까?  \
+  궤도를 도는 태양계를 표현하고자 하였다.  \
   ";
   text = createDiv(description);
   text.position(20, 600);
   text.style("font-family", "monospace");
   text.style("font-size", "12pt");
-
   createCanvas(400, 400);
 
   ball = new Particle();
