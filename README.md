@@ -16,7 +16,7 @@
 ## 작품 下
 * [SolarSystem](./solarsystem/)
  ![1번작품](./image/2.JPG)
-* [지구를 돌리는 우주비행사](./astro/)
+* [astronaut](./astro/)
  ![2번작품](./image/3.JPG)
-* [해바라기](./Sunflower/index.html)
+* [sunflower](./Sunflower/)
 ![3번작품](./image/4.JPG)
