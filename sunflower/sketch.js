@@ -5,15 +5,12 @@ var img2;
 function preload()
 {
   img = loadImage('flower.png');
-  img2 = loadImage('sun-1.png');
+  img2 = loadImage('sun_1.png');
 
 }
 
 function setup() {
-
-
   createCanvas(400, 400);
-
 
   ball = new Particle();
 }

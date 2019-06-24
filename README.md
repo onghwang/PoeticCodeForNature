@@ -18,5 +18,5 @@
  ![1번작품](./image/2.JPG)
 * [astronaut](./astro/)
  ![2번작품](./image/3.JPG)
-* [sunflower](./Sunflower/)
+* [sunflower](./sunflower/)
  ![3번작품](./image/4.JPG)
