@@ -18,7 +18,7 @@ function setup(){
   빨간 원,파란 원을 통해 대한민국을 나타냈고, 대한민국 우주비행사가 지구를 돌린다는 뜻이다. \
   ";
   text = createDiv(description);
-  text.position(20, 600);
+  text.position(20, 700);
   text.style("font-family", "monospace");
   text.style("font-size", "12pt");
 
