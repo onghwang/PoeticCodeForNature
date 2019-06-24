@@ -14,8 +14,7 @@ function preload() {
 // draw a sphere with radius 200
 function setup(){
   title = createElement('h2', "<a href='/PoeticCodeForNature'> GO HOME!  </a>   우주비행사 ");
-  description = "\ 원래는 지구 위에 떠다니는 우주 비행사를 만들고 싶었지만, <br/> 심심한 느낌이 들어, randomwalk를 이용해 만들었다.
-  빨간 원,파란 원을 통해 대한민국을 나타냈고, 대한민국 우주비행사가 지구를 돌린다는 뜻이다. \
+  description = "\ 원래는 지구 위에 떠다니는 우주 비행사를 만들고 싶었지만, <br/> 심심한 느낌이 들어, randomwalk를 이용해 만들었다. <br/> 빨간 원,파란 원을 통해 대한민국을 나타냈고, 대한민국 우주비행사가 지구를 돌린다는 뜻이다. \
   ";
   text = createDiv(description);
   text.position(20, 700);
