@@ -1,4 +1,5 @@
 var img;
+var img2;
 var r = 0;
 let ball;
 let ball2;
@@ -12,15 +13,6 @@ function preload() {
 
 // draw a sphere with radius 200
 function setup(){
-  title = createElement('h2', "<a href='/PoeticCodeForNature'> GO HOME!  </a>   SolarSystem ");
-  description = "\
-  원래는 지구 위에 떠다니는 우주 비행사를 만들고 싶었지만,
-  심심한 느낌이 들어, randomwalk를 이용해 만들었다. 빨간 원,파란 원을 통해 대한민국을 나타냈고, 대한민국 우주비행사가 지구를 돌린다는 뜻이다.  \
-  ";
-  text = createDiv(description);
-  text.position(20, 700);
-  text.style("font-family", "monospace");
-  text.style("font-size", "12pt");
 
   createCanvas(500, 500, WEBGL);
  ball = new Walker();
